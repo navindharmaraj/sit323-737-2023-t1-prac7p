@@ -1,0 +1,37 @@
+{"level":"info","message":"Request for division two numbers 1 and 0","timestamp":"2023-03-20T13:36:08.481Z"}
+{"level":"error","message":"21/3/2023 :-: Cannot divide by zero.","timestamp":"2023-03-20T13:36:08.499Z"}
+{"level":"info","message":"Request for division two numbers 1 and 0","timestamp":"2023-03-20T13:36:27.374Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-20T13:36:27.389Z"}
+{"level":"info","message":"Request for division two numbers 1 and 5","timestamp":"2023-03-20T13:37:02.386Z"}
+{"level":"info","message":"Request for adding two numbers 1 and 5","timestamp":"2023-03-20T13:37:27.975Z"}
+{"level":"info","message":"Request for adding two numbers 1 and 5","timestamp":"2023-03-20T13:37:42.338Z"}
+{"level":"info","message":"Request for adding two numbers 1 and 5","timestamp":"2023-03-20T13:37:49.909Z"}
+{"level":"info","message":"Request for adding two numbers 1 and 5","timestamp":"2023-03-20T13:43:00.852Z"}
+{"level":"info","message":"Request for division two numbers 1 and 0","timestamp":"2023-03-20T14:01:28.310Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-20T14:01:28.332Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-20T14:01:28.332Z"}
+{"level":"info","message":"Request for multipling two numbers 9 and 5","timestamp":"2023-03-20T14:02:56.778Z"}
+{"level":"info","message":"Request for subtracting two numbers 9 and a","timestamp":"2023-03-20T14:03:38.629Z"}
+{"level":"error","message":"One or both of the parameters is not a number.","timestamp":"2023-03-20T14:03:38.630Z"}
+{"level":"error","message":"One or both of the parameters is not a number.","timestamp":"2023-03-20T14:03:38.630Z"}
+{"level":"info","message":"Request for subtracting two numbers 9 and a","timestamp":"2023-03-21T01:26:52.034Z"}
+{"level":"error","message":"One or both of the parameters is not a number.","timestamp":"2023-03-21T01:26:52.059Z"}
+{"level":"error","message":"One or both of the parameters is not a number.","timestamp":"2023-03-21T01:26:52.060Z"}
+{"level":"info","message":"Request for division two numbers 9 and 0","timestamp":"2023-03-21T01:27:04.985Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T01:27:04.987Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T01:27:04.987Z"}
+{"level":"info","message":"Request for division two numbers 9 and 0","timestamp":"2023-03-21T02:20:42.007Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:20:42.023Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:20:42.024Z"}
+{"level":"info","message":"Request for division two numbers 9 and 0","timestamp":"2023-03-21T02:25:33.143Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:25:33.160Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:25:33.160Z"}
+{"level":"info","message":"Request for division two numbers 9 and 0","timestamp":"2023-03-21T02:36:55.050Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:36:55.068Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:36:55.068Z"}
+{"level":"info","message":"Request for division two numbers 9 and 0","timestamp":"2023-03-21T02:41:08.502Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:41:08.519Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-21T02:41:08.520Z"}
+{"level":"info","message":"Request for division two numbers 9 and 0","timestamp":"2023-03-31T04:00:47.751Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-31T04:00:47.820Z"}
+{"level":"error","message":"Cannot divide by zero.","timestamp":"2023-03-31T04:00:47.821Z"}

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator Microservice</title>
+    <style>
+        table.border,
+        th.border,
+        td.border {
+            border: 1px solid;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <table style="width:100%">
+            <tr>
+                <td><span style="font-size: 22px;font-weight: 600;">SIT737 - 4.1P</span></td>
+            </tr>
+            <tr>
+                <td><span style="font-size: 12px;font-weight: 600;">By Navin Dharmarajan</span></td>
+            </tr>
+        </table>
+        <table class="border">
+            <tr>
+                <td class="border" style="width:10%">Method</td>
+                <td class="border" style="width:10%">Calc Function</td>
+                <td class="border" style="width:30%">Url</td>
+                <td class="border" style="width:30%">Sample Body data</td>
+            </tr>
+            <tr>
+                <td class="border" style="width:10%">POST</td>
+                <td class="border" style="width:10%">Addition</td>
+                <td class="border" style="width:30%">http://localhost:3000/calc/add</td>
+                <td class="border" style="width:30%">{"number1": 1,"number2": "5"}</td>
+            </tr>
+            <tr>
+                <td class="border" style="width:10%">POST</td>
+                <td class="border" style="width:10%">Subtraction</td>
+                <td class="border" style="width:30%">http://localhost:3000/calc/sub</td>
+                <td class="border" style="width:30%">{"number1": 1,"number2": "5"}</td>
+            </tr>
+            <tr>
+                <td class="border" style="width:10%">POST</td>
+                <td class="border" style="width:10%">Multiplication</td>
+                <td class="border" style="width:30%">http://localhost:3000/calc/mul</td>
+                <td class="border" style="width:30%">{"number1": 1,"number2": "5"}</td>
+            </tr>
+            <tr>
+                <td class="border" style="width:10%">POST</td>
+                <td class="border" style="width:10%">Division</td>
+                <td class="border" style="width:30%">http://localhost:3000/calc/div</td>
+                <td class="border" style="width:30%">{"number1": 1,"number2": "5"}</td>
+            </tr>
+             <tr>
+                <td class="border" style="width:10%">POST</td>
+                <td class="border" style="width:10%">Login</td>
+                <td class="border" style="width:30%">http://localhost:3000/login</td>
+                <td class="border" style="width:30%">{ "username": "anil","password": "password1"}</td>
+            </tr>
+            <tr>
+                <td>
+                    Sample Data
+                </td>
+                <td colspan="2">
+                    username: 'anil', password: 'password1'
+                    <br />
+                    username: 'om', password: 'password2' <br />
+                    username: 'navin', password: 'password3' <br />
+                    username: 'david', password: 'password4' <br />
+                </td>
+            </tr>
+        </table>
+    </div>
+
+
+</body>
+
+</html>

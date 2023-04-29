@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: calcnode-app
+  labels:
+    app: calcnode-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: calcnode-app
+  template:
+    metadata:
+      labels:
+        app: calcnode-app
+    spec:
+      containers:
+      - name: calcnode-app
+        image: gcr.io/sit737-23t1-dharmaraja-5f2a74e/navindharmaraj/calcnode-app:latest
+        ports:
+        - containerPort: 5005
